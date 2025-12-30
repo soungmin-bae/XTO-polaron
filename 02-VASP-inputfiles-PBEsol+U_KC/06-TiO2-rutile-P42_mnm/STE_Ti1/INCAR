@@ -1,0 +1,49 @@
+# algorithm
+ALGO  =  Normal
+
+# accuracy
+PREC   =  Normal
+LREAL  =  Auto
+EDIFF  =  1e-05
+ENCUT  =  400.0
+LASPH  =  True
+NELM   =  100
+
+# ionic relaxation
+ISIF    =  2
+IBRION  =  2
+EDIFFG  =  -0.03
+NSW     =  20
+
+# occupation
+ISMEAR  =  0
+SIGMA   =  0.1
+
+# spin
+ISPIN  =  2
+NUPDOWN = 1
+
+# IO control
+LWAVE   =  T
+LCHARG  =  T
+
+# analyzer
+LORBIT  =  10
+
+# dft parameter
+GGA  =  Ps
+
+# hubbard u
+LDAU       =  True
+LDAUTYPE   =  2
+LDAUPRINT  =  2
+LDAUL      =  2 1     2
+LDAUU      =  3.5 6.4 3.5
+
+#OCCEXT = 1
+
+# parallel
+KPAR  =  1
+
+# STE
+NELECT =    1153
