@@ -71,12 +71,6 @@ The data were generated and visualized using the following software:
 
 ---
 
-## License and usage
-
-This dataset is provided for academic and non-commercial research use. If you use this data in your work, please cite the corresponding publication.
-
----
-
 ## Contact
 
 For questions regarding the data or requests for additional information, please contact:
